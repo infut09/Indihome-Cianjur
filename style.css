@@ -1,0 +1,6 @@
+body {font-family: sans-serif; margin:0; background:#f3f3f3;}
+.header {text-align:center; padding:30px; background:#d40000; color:white;}
+.logo {width:80px; height:80px; margin-bottom:10px; background:#fff;}
+section {background:white; margin:15px; padding:20px; border-radius:12px;}
+.wa {position:fixed; bottom:20px; right:20px; background:#25D366; color:white;
+     padding:15px 22px; border-radius:50px; text-decoration:none; font-weight:bold;}
